@@ -1,6 +1,9 @@
 # Credential store
 .anylist_credentials
 
+# Local copy of anylist sorce code
+anylist-source.js
+
 # Playground
 dev.js
 
